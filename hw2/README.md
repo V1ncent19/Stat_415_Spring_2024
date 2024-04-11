@@ -1,4 +1,4 @@
-# Homework 2: Recommender Systems 1
+# Homework 2: Recommender Systems Part 1
 This repository contains materials and instructions for Homework 2, in which you will be working with a dataset of restaurant reviews from Evanston, IL. You will be tasked with taking this data and using it to build a recommendation engine.
 
 The primary goal of the assignment is to gain insight into different systems of recommendation. In particular, we will focus on popularity matching, content-based filtering, and collaborative filtering methods. All three of these methods are important problems in the technology and data science communities. Broadly speaking, the outcome variable of interest in this dataset will be the user review score. We will at times use direct predictive modeling methods to predict the user review score from the data. However, much of our analysis will also focus on how to find similar restaurants and similar users across the dataset. Recommendations can then be made by finding restaurants that are similar to other restaurants the user enjoyed.
