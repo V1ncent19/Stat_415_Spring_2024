@@ -27,7 +27,7 @@ The questions we would like you to consider for this homework can be broken into
 
 5. Create a simple recommendation engine that offers restaurant suggestions based on a specific cuisine type entered by a user, based on a popularity score. Apply this engine to generate recommendations for Spanish, Chinese, Mexican food, and Coffee, and include these specific recommendations in your report.
 
-6. Implement a shrinkage estimator that adjusts review scores towards the mean score, scaled by the number of reviews a restaurant has received. Identify the restaurant that benefits the most from this adjustment and the one that is most negatively affected. Illustrate the impact of shrinkage on review scores. For example, you can plot the top positive and negative changes in a bar chart, but feel free to create an alternative plot if you prefer, or present your results in a table instead.
+6. Implement a shrinkage estimator that adjusts review scores towards the mean score, scaled by the number of reviews a restaurant has received. Please use the exact shrinkage estimator from page 17 of Lecture 4. Identify the restaurant that benefits the most from this adjustment and the one that is most negatively affected. Illustrate the impact of shrinkage on review scores. For example, you can plot the top positive and negative changes in a bar chart, but feel free to create an alternative plot if you prefer, or present your results in a table instead.
 
 ### Content-based Filtering
 
