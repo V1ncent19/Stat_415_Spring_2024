@@ -35,7 +35,7 @@ The questions we would like you to consider for this homework can be broken into
 
 8. Repeat the previous step, using cosine distance this time. Then, for both the Euclidean distances and cosine similarities, report the results for the pairs (``'Peppercorns Kitchen', 'Epic Burger'``) and (``'Peppercorns Kitchen', 'Lao Sze Chuan'``). Discuss how these metrics reflect the relationships and similarities between the restaurants, considering their cuisine types and other features.
 
-9. Write a script for a content-based filtering recommendation engine. This script should accept a user's name, identify the user's favorite restaurant, and then find the 10 most similar restaurants based on Euclidean distance. For example, for the user ``'Willie Jacobsen'``, utilize the engine to identify his favorite restaurant and list the top 10 most similar restaurants. Display these recommendations through a plot, a table, or any other method that shows the system's output effectively.
+9. Write a script for a content-based filtering recommendation engine. This script should accept a user's name, identify the user's favorite restaurant, and then find the 10 most similar restaurants based on Euclidean distance. For the user ``'Willie Jacobsen'``, utilize the engine to identify his favorite restaurant and list the top 10 most similar restaurants. Display these recommendations through a plot, a table, or any other method that shows the system's output effectively.
 
 10. Come up with a method of comparing the recommendations made by Euclidean distance and cosine distance. Explain why your method makes sense. What distance metric does the best under your proposed comparison method? Be sure to visualize your results or present a table as evidence.
 
