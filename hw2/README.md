@@ -50,7 +50,7 @@ For the following section, you only need to do one of version A or version B. Yo
 (b) Burger King and Oceanique
 (c) Lao Sze Chuan and Kabul House
 
-13.Note that Jaccard distance can make reccommendations by taking a restaurant the user likes and finding the restaurant that is closest to this liked restaurant, in terms of the jaccard distance. Using this method, please make reccommendations for the users ``'Calvin Smith'`` and ``'Solomon M'``
+13. Note that Jaccard distance can make reccommendations by taking a restaurant the user likes and finding the restaurant that is closest to this liked restaurant, in terms of the jaccard distance. Using this method, please make reccommendations for the users ``'Calvin Smith'`` and ``'Solomon M'``
 
 
 ### Natural Language Analysis -- version B. 
