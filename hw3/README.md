@@ -24,7 +24,7 @@ Another way of asking this question: Create a user feature matrix where row $i$ 
 3. Rather than finding users that are similar in terms of demographics, we want to find users that gave similar reviews. To find users that have given similar reviews, for each user $j$ you will want to form a 63-dimensional vector where entry $i$ is the user $j$'s review of restaurant $i$. This vector will have many blank entries. What should you use to fill in these blanks? *Hint: probably not 0.*
 
 
-Note, another way of forming question 3 is this: Make a matrix where $a_ij$ is user $j$'s review of restaurant $i$. Fill in the blank entries of this matrix. 
+Note, another way of forming question 3 is this: Make a matrix where $a_{ij}$ is user $j$'s review of restaurant $i$. Fill in the blank entries of this matrix. 
 
 4. Similar to step 2, write a function that computes the distance from one user to all others based on the vectors created in step 3. Demonstrate this algorithm by selecting ``'Sarah Belle'`` as your user, and in your report, include Sarah's most similar user and the recommendations provided. 
    
