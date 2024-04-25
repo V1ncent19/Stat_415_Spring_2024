@@ -38,7 +38,7 @@ Note, another way of forming question 3 is this: Make a matrix where $a_{ij}$ is
 
 8. We want to know what demographic features are useful for predicting coffee scores. There are 3 coffee shops in the dataset. For these three restaurants only, write a linear model that takes demographic data and predicts the score.
     
-9. Examine the weights produced by the linear model developed in in step 10. Identify the demographic features that are most influential. In other words, when are the weights of the linear model large? When are they small or negative? Based on these weights, can we infer if certain demographic groups have a preference for or against coffee?
+9. Examine the weights produced by the linear model developed in in step 8. Identify the demographic features that are most influential. In other words, when are the weights of the linear model large? When are they small or negative? Based on these weights, can we infer if certain demographic groups have a preference for or against coffee?
 
 ### Text Embedding
 
